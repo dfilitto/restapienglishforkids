@@ -4,6 +4,7 @@
   "description": "rest api english for kids",
   "main": "index.js",
   "scripts": {
+    "start": "json-server --watch db.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
