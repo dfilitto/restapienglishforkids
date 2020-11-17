@@ -1,4 +1,14 @@
 {
+  "users":[
+    {
+      "id": 1,
+      "name": "Danilo Filitto",
+      "email": "danilo.filitto@gmail.com",
+      "xp": 0,
+      "highscore":0
+    }
+  ],
+
   "categories": [
     {
       "id": 1,
