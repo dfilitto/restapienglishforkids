@@ -9,6 +9,15 @@
     }
   ],
 
+  "words":[
+    {
+      "id": 1,
+      "world": "Two",
+      "translation": "Dois",
+      "categories": "Numbers" 
+    }
+  ],
+
   "categories": [
     {
       "id": 1,
